@@ -1,3 +1,5 @@
+/* Written by Boyd Trolinger */
+
  var mainIngredients = [
  	"", "chocolate", "maple", "coconut", "fruit", "peanut butter", "nuts"
  ];
